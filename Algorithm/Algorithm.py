@@ -12,6 +12,7 @@ for i in range(n):
 
 basket = list(str(num1))
 
+
 for j in range(m):
     n, m = input().split()
 
