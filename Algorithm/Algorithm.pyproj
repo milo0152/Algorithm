@@ -21,7 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Algorithm.py" />
+    <Compile Include="Algorithm.py">
+      <Publish>True</Publish>
+    </Compile>
+    <Compile Include="Algorithm2.py" />
+    <Compile Include="Algorithm3.py" />
+    <Compile Include="Algorithm4.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
