@@ -24,6 +24,7 @@
     <Compile Include="Algorithm.py">
       <Publish>True</Publish>
     </Compile>
+    <Compile Include="Algorithm10.py" />
     <Compile Include="Algorithm2.py" />
     <Compile Include="Algorithm3.py" />
     <Compile Include="Algorithm4.py" />
@@ -31,6 +32,7 @@
     <Compile Include="Algorithm6.py" />
     <Compile Include="Algorithm7.py" />
     <Compile Include="Algorithm8.py" />
+    <Compile Include="Algorithm9.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
