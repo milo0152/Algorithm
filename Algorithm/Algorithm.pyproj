@@ -25,6 +25,8 @@
       <Publish>True</Publish>
     </Compile>
     <Compile Include="Algorithm10.py" />
+    <Compile Include="Algorithm11.py" />
+    <Compile Include="Algorithm12.py" />
     <Compile Include="Algorithm2.py" />
     <Compile Include="Algorithm3.py" />
     <Compile Include="Algorithm4.py" />
